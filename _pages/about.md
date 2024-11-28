@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student at Xidian University, and my current research focuses on computer vision.
+I am Rongcan Zheng, a second-year master's student majoring in Computer Technology at Xidian University.
+
+My primary research interest is in image generation.
