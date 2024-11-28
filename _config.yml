@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Rongcan Zheng"
 description              : &description "personal description"
-url                      : https://github.com/biuzrc
+url                      : "https://github.com/biuzrc"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/biuzrc/ZhengRongcan.github.io"
 
